@@ -15,4 +15,7 @@ with full input validation and error handling.
 ## Tech Stack
 - C# Windows Forms
 - .NET Framework
-- Visual Studio<img width="508" height="435" alt="Capture" src="https://github.com/user-attachments/assets/df411ff6-23fc-442e-ad49-a42b92dade61" />
+- Visual Studio
+- Take a look!
+
+- <img width="508" height="435" alt="Capture" src="https://github.com/user-attachments/assets/df411ff6-23fc-442e-ad49-a42b92dade61" />
