@@ -17,7 +17,7 @@ The code is written in a clean and organized way✨🫠
 
 ## Tech Stack
 - C# Windows Forms
-- .NET Framework
+- NET Framework
 - Visual Studio
 
 - Take a look!
