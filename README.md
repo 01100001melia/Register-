@@ -1,9 +1,10 @@
-# Register-
-Register Form with input validation built in C# Windows Forms
+# Register Form - Competition Project 
+
+A simple register form built in C# Windows Forms
+as part of a programming competition.
 
 ## About
-A register form built with C# Windows Forms
-with full input validation and error handling.
+This project was built for a competition with
 
 ## Validation Rules
 - Both fields empty → error message + red highlight
@@ -16,6 +17,7 @@ with full input validation and error handling.
 - C# Windows Forms
 - .NET Framework
 - Visual Studio
+
 - Take a look!
 
 - <img width="508" height="435" alt="Capture" src="https://github.com/user-attachments/assets/df411ff6-23fc-442e-ad49-a42b92dade61" />
