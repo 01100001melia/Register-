@@ -5,7 +5,7 @@ as part of a programming competition.
 
 ## About
 This project was built for a competition
-The code is written in a clean and organized way✨🫠
+The code is written in a clean and organized way✨🫠(Clean Code)
 
 
 ## Validation Rules
