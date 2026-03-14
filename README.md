@@ -20,6 +20,7 @@ The code is written in a clean and organized way✨🫠
 - NET Framework
 - Visual Studio
 
+# the UI is part of the rules
 - Take a look!!
 
 - <img width="508" height="435" alt="Capture" src="https://github.com/user-attachments/assets/df411ff6-23fc-442e-ad49-a42b92dade61" />
