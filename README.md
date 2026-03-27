@@ -1,8 +1,5 @@
 # Register Form - Simple Competition Project 
 
-A simple register form built in C# Windows Forms
-as part of a programming competition.
-
 ## About
 This project was built for a competition
 The code is written in a clean and organized way✨(Clean Code)
